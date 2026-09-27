@@ -28,7 +28,8 @@ Airlines lose revenue when seats fly empty or when fare pricing doesn't reflect 
 - **Business class fares were consistently priced above Economy** across all aircraft types
 
 ## 📈 Dashboard Preview
-<img width="1350" height="736" alt="Screenshot 2026-09-27 211609" src="https://github.com/user-attachments/assets/a380aca6-d989-40bf-acae-e6fcc612d4f4" />
+<img width="1372" height="778" alt="Screenshot 2026-09-27 220040" src="https://github.com/user-attachments/assets/8b9ba2d6-561d-4641-bbaa-476a4c4e04ec" />
+
 
 
 
